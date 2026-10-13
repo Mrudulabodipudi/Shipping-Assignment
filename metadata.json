@@ -1,0 +1,6 @@
+{
+  "name": "Customs Shipping Bill Portal",
+  "description": "Refactored, production-ready Shipping Bill creation platform and ICEGATE export filing system with asynchronous mock services, comprehensive validations, and multi-step workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
